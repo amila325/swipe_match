@@ -1,5 +1,5 @@
 **Requirements**
-* Java 8
+* Java 8 or higher
 
 **How to run and access**
 
