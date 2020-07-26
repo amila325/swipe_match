@@ -4,8 +4,6 @@
 **How to run and access**
 
 ````
-Add swipejob worker and job urls in application.properties file
-
 Run the application via maven or build the jar and run the jar file. 
 
 Then access
